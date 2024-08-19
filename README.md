@@ -3,9 +3,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Kyle's Portfolio</title>    
+        
 </head>
-
+<title>Kyle's Portfolio</title>
 <body>
 <h1>Kyle's Codefolio</h1>
 <h2>I develop websites</h2>
